@@ -52,13 +52,13 @@ Zunächst haben wir die Stunde mit einer Kurzen Einführung begonnen. Dann haben
 
 ### Mittwoch 4. August <a name="2">
 
-Heute haben wir uns weiter mit dem Programmieren befasst, wir konnten uns jedoch noch nicht für eine Programmiersprache entscheiden. 
+Heute haben wir uns weiter mit dem Programmieren befasst, wir konnten uns jedoch noch nicht für eine Programmiersprache entscheiden. Zur Auswahl standen JavaScript und Python.
 
 ### Dienstag 10. August <a name="3">
-Zuhause haben wir uns mit unteschiedlichen Programmeirsprachen befasst und haben uns schlußendlich für JavaScript entschieden, da Julian bereits einige Vorkenntnisse mit dieser Programmiersprache hat. Wir verbrachten den Großteil der Stunde damit, uns die Grundlagen anzueignen, um mit dem Programmieren des Spiel zu starten.
+Zuhause haben wir uns mit den unteschiedlichen Programmeirsprachen befasst und haben uns schlußendlich für JavaScript entschieden, da Julian bereits einige Vorkenntnisse mit dieser Programmiersprache hat. Wir verbrachten den Großteil der Stunde damit, uns die Grundlagen anzueignen, um mit dem Programmieren des Spiel zu starten. Wir entschieden uns ein Jump 'n' Run Spiel zu programmieren.
 
 ### Mittwoch 11. August<a name="4">
-Nach einer kurzen Rücksprache mit Herrn Buhl haben wir uns entschieden mit Scratch zu programmieren, da dies eine sehr anfängerfreundliche Programmiersprache ist. Wir trafen zur Beginn der Stunde die Entscheidung Mario Kart zu programmieren, da dies ein Spiel ist, dass wir gerne spielen. Außerdem waren wir davon überzeugt, dass es eine anpruchsvolle Aufgabe wird, die wir aber bewältigen können. 
+Nach einer kurzen Rücksprache mit Herrn Buhl entschieden mit Scratch zu programmieren, da dies eine sehr anfängerfreundliche Programmiersprache ist. Wir trafen zur Beginn der Stunde die Entscheidung Mario Kart zu programmieren, da dies ein Spiel ist, dass wir gerne spielen. Außerdem waren wir davon überzeugt, dass es eine anpruchsvolle Aufgabe wird, die wir aber bewältigen können. Somit verbrachten wir die Stunde damit mit Scratch vertraut zu werden.  
 
 ### Dienstag 17. August <a name="5">
 *Entfall* 
@@ -66,27 +66,27 @@ Nach einer kurzen Rücksprache mit Herrn Buhl haben wir uns entschieden mit Scra
 ### Mittwoch 18. August <a name="6"> 
 *Entfall*
 ### Dienstag 24. August <a name="7">
-
+Sprites und Map gefunden, Kostüme in richtige REinfolge
 ### Mittwoch 25. August <a name="8">
-
+Fahren zum funktionieren gebracht, mit Kostümen, dont rotate gefunden
 ### Dienstag 31. August <a name="9">
-
+Checkpoint gefixt
 ### Mittwoch 1. September <a name="10">
-
+Luigi angefangen
 ### Dienstag 7. September <a name="11">
-
+Luigi beendet
 ### Mittwoch 8. September <a name="12">
-
+Geschwindigkeiten angefangen zu fixen
 ### Diesntag 14. September <a name="13">
- 
+ weiter pace gefixt
 ### Mittwoch 15.September <a name="14">
- 
+ Pace fertig mit hintergrundmap
 ### Dienstag 21. September <a name="15">
- 
+ Items begonnnen, hinter spieler bringen und Items Sprite gesucht
 ### Mittwoch 22. September <a name="16">
-
+Mushroom begonnen
 ### Dienstag 28. September <a name="17">
-
+Mushroom durch
 ### Mittwoch 29. September <a name="18">
 *Entfall*
 ### Dienstag 5. Oktober <a name="19">
@@ -98,31 +98,42 @@ Nach einer kurzen Rücksprache mit Herrn Buhl haben wir uns entschieden mit Scra
 ### Mittwoch 13. Oktober <a name="22">
 *Ferien*
 ### Dienstag 19. Oktober <a name="23">
-
+Item reel begonnen, prtoblem mit leerem Item Reel
 ### Mittwoch 20. Oktober <a name="24">
-
+Problem gelöst leeres Items Reel
 ### Dienstag 26. Oktober <a name="25">
-
+Item Reel Spiler 2, Mushroom begonnnen
 ### Mittwoch 27. Oktober <a name="26">
+Mushroom durch 
 
 ### Dienstag 2. November <a name="27">
+Banana, Red Shell und Green Shell begonnen 
 
-### Mittwoch 3. November <a name="28">
+ ### Mittwoch 3. November <a name="28">
+Movement von allen durch Problem des Hits erkannt
 
-### Dienstag 9. November <a name="29">
+ ### Dienstag 9. November <a name="29">
 *Entfall*
-### Mittwoch 10. November <a name="30">
 
-### Dienstag 16. November <a name="31">
+ ### Mittwoch 10. November <a name="30">
 
-### Mittwoch 17. November <a name="32">
+ Green Shell gefixt ohne Abprall 
 
-### Dienstag 23. November <a name="33">
+ ### Dienstag 16. November <a name="31">
+ Red Shell gefixt, Problem von unlimeted Red Shells erkannt
 
-### Mittwoch 24. November <a name="34">
+ ### Mittwoch 17. November <a name="32">
+Problem von Items behoben 
 
-### Dienstag 30. November <a name="35">
+ ### Dienstag 23. November <a name="33">
+ neues Problem Erkennung von Farben mit Itemsm, Problem behoben 
+
+ ### Mittwoch 24. November <a name="34">
+ Shells und Banana gefixt
+
+ ### Dienstag 30. November <a name="35">
+ Menü, Spielmodi, Endscreen gemacht, 
 
 ### Mittwoch 1. Dezember <a name="36">
-
+Timer gemacht
 
