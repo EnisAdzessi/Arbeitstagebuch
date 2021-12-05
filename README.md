@@ -14,7 +14,7 @@
   * [24.August](#7)
   * [25.August](#8)
   * [31.August](#9)
- <summary>einzelnen Stunden</summary>
+<details< <hr>
 ### [September](#September)
   * [1.September](#10)
   * [7.September](#11)
