@@ -112,7 +112,8 @@ In dieser Stunden haben wir uns mit dem Fahren von Mario auseinandergesetzt. Hie
 ![rechts mario](https://user-images.githubusercontent.com/88385824/144752865-d116749f-fb7a-4823-93e4-8293c0d1e789.PNG)
 
 Außerdem änderten wir den Rotationstil vom Mario Sprite, da er sich um seine Achse drehte. 
- 
+
+![rotation style](https://user-images.githubusercontent.com/88385824/144753079-9e89da6f-42f9-4935-89de-10c263d6560a.PNG)
  
  ### Dienstag 31. August <a name="9">
 Checkpoint gefixt
