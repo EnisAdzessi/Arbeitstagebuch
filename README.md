@@ -135,6 +135,7 @@ In der heutigen Stunde begannen wir damit die Items in das Spiel zu implementier
 https://scratch.mit.edu/projects/546284686/editor/
 Wir exportierten die Sprites mitsamt dem Item Reel und programmiereten es so, dass es bei Beginn des Spiel ein Zahl zwischen 60-64 nimmt. Dies ist die Anzahl der Kostüme, die nach vorne gegangen werden. je nach dem auf welchem Kostüm es landet, ist das Item welches der Spieler erhält. Wir erkannten jedoch kurz vor Ende das Problem, dass das leere Item Reel auch unter den Kostümen enthalten ist und dementsprechend auch ausgewählt werden kann. 
  
+![Item Reel](https://user-images.githubusercontent.com/88385824/144756357-b9ce176a-011b-4c44-ade0-20775b087e24.PNG)
 
  
 ### Mittwoch 8. September <a name="12">
