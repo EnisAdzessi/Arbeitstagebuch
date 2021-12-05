@@ -82,7 +82,8 @@ Nach einer kurzen Rücksprache mit Herrn Buhl entschieden mit Scratch zu program
 *Entfall*
 ### Dienstag 24. August <a name="7">
 In dieser Stunde begannen wir Mario Kart zu programmieren. Hierfür suchten wir zu Beginn nach einer Mario Kart Karte und den Mario und Luigi Sprites. Wir waren uns einig, dass wir ein Spiel für zwei Spieler machen wollten. Die Sprites und die Karte fanden wir hier:
-https://imgur.com/a/nPwUSRr
+
+ https://imgur.com/a/nPwUSRr
 
 Wir exportierten die Bilder in Scrtach und ordneten die einzelnen Kostüme der Reihe nach. Das erste Kostüm musste hierfur nach vorne schauen, alle nachfolgenden Kostüme drehten sich immer mehr nach rechts, bis das 23. Kostüm wieder identisch zum 1. war. Außerdem mussten wir die Kostüme zentrieren, damit sie sich nicht schräg auf der Rennstrecke befinden. 
 
@@ -132,7 +133,9 @@ Luigis Code wurde zu ende übertragen, sodass es möglich war mit zwei Spilern z
  
 ### Dienstag 7. September <a name="11">
 In der heutigen Stunde begannen wir damit die Items in das Spiel zu implementieren. Zunächst überlegten wir uns welche Items wir in das integrieren wollen. Wir entschieden uns schlußendlich für den Mushroom, die Green Shell, die Red Shell und der Banane. Wir wollten auch anders als in den Original Mario Kart Spielen keine Itemsboxen zum Spiel hinzufügen, da wir es als amüsanter ansehen die Items immer bereit zu haben. Sie suchten dementsprechend nach Sprites von den Items und fanden auf Scratch ein Mario Kart Remix in denen die Sprites enthalten waren. 
+
 https://scratch.mit.edu/projects/546284686/editor/
+
 Wir exportierten die Sprites mitsamt dem Item Reel und programmiereten es so, dass es bei Beginn des Spiel ein Zahl zwischen 60-64 nimmt. Dies ist die Anzahl der Kostüme, die nach vorne gegangen werden. je nach dem auf welchem Kostüm es landet, ist das Item welches der Spieler erhält. Wir erkannten jedoch kurz vor Ende das Problem, dass das leere Item Reel auch unter den Kostümen enthalten ist und dementsprechend auch ausgewählt werden kann. 
  
 ![Item Reel](https://user-images.githubusercontent.com/88385824/144756357-b9ce176a-011b-4c44-ade0-20775b087e24.PNG)
