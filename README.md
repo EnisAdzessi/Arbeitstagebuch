@@ -104,8 +104,9 @@ Außerdem fügten wir die Map als Hintergrund ein.
 
 
 ### Mittwoch 25. August <a name="8">
-Fahren zum funktionieren gebracht, mit Kostümen, dont rotate gefunden
-### Dienstag 31. August <a name="9">
+In dieser Stunden haben wir uns mit dem Fahren von Mario auseinandergesetzt. Hierfür benutzen wir eine Variable, die wir Speed nannten. Diese Speedvariable kann maximal 5 sein und wird jede Sekunde um 0,5 erhöht. Mario bewegt sich in Speed Steps was bedeutet, dass er so viele Steps in der Sekunde mnacht, wie hoch die Variable ist. 
+
+ ### Dienstag 31. August <a name="9">
 Checkpoint gefixt
 ### Mittwoch 1. September <a name="10">
 Luigi angefangen
