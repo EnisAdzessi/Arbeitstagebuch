@@ -3,8 +3,7 @@
 ## Inhaltsverzeichnis
 
 ### [August](#August)
-<details>
- <summary>einzelnen Stunden</summary>
+
  
   * [3.August](#1)
   * [4.August](#2)
@@ -16,13 +15,8 @@
   * [25.August](#8)
   * [31.August](#9)
 
-</details> <hr>
-
  ### [September](#September)
-  
-  <details>
- <summary>einzelnen Stunden</summary>
-  
+ 
   * [1.September](#10)
   * [7.September](#11)
   * [8.September](#12)
@@ -33,13 +27,10 @@
   * [28.September](#17)
   * [29.September](#18)
 
- </details> <hr>
+ 
  
  ### [Oktober](#Oktober)
- <details>
- <summary>einzelnen Stunden</summary>
- 
- 
+
  * [5.Oktober](#19)
   * [6.Oktober](#20)
   * [12.Oktober](#21)
@@ -49,15 +40,10 @@
   * [26.Oktober](#25)
   * [27.Oktober](#26)
 
-</details> <hr>
-
 ### [November](#November)
- <details>
- <summary>einzelnen Stunden</summary>
- 
- 
+
  * [2.November](#27)
-  * [3.November](#28)
+  *[3.November](#28)
   * [9.November](#29)
   * [10.November](#30)
   * [16.November](#31)
@@ -67,13 +53,9 @@
   * [30.November](#35)
 
 ### [Dezember](#Dezember)
-  <details>
- <summary>einzelnen Stunden</summary>
- 
  
  * [1.Dezember](#36)
 
-</details> <hr>
 
 
  ### Dienstag 3. August <a name="1">
