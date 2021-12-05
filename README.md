@@ -141,6 +141,7 @@ Wir exportierten die Sprites mitsamt dem Item Reel und programmiereten es so, da
 ### Mittwoch 8. September <a name="12">
 Diese Stunde verbrachten wir damit das Problem der leeren Item Reels zu lösen. Sobald das leere Item Reel ausgewählt wird broadcasted es die Message "leeres Item Reel", diese Message löste aus, dass die Auswahl des Item Reels neu gestartet wird. Das Item Reel wählt demnach solange Kostüme aus bis ein anderes Item ausgewählt wird und dessen Message gebroadcastet wird. Das Items wird dann mit Leerstaste oder b ausgelöst. nach 3 Sekunden beginnt das Item Reel erneut.
  
+![Item Reel fix](https://user-images.githubusercontent.com/88385824/144756608-87193044-b0db-44c5-8c80-b56f86a0f6b6.PNG)
 
 
 ### Diesntag 14. September <a name="13">
