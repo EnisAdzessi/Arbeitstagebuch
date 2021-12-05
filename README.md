@@ -118,15 +118,15 @@ Außerdem änderten wir den Rotationstil vom Mario Sprite, da er sich um seine A
  ### Dienstag 31. August <a name="9">
 Wir fügten in dieser Stunde einen Rundenzähler ein. Es handelte es sich um einen schwarzen Strich, der durch den "Ghost Effect" in Scratch nicht zu sehen war. Wenn der Spieler diesen Strich wurde seine Rundenzahlvariable erhöht. Wenn diese Variable 3 erreichte wird das Spiel beendet. Das Problem war hier jedoch das man keine Runden fahren brauchte, um die Variable auf 3 zu bringen. Es reichte aus sie drei mal nacheinander zu berühren. Wir lösten dieses Problem indem wir einen Checkpoint implementierten. Dieser befand sich auf der anderen Seite der Rennstrecke, sodass man eine ganze Runden fahren muss, um diesen zu erreichen. Der Rundenzähler wird nur hochgesetzt, wenn man über den Checkpoint gefahren ist und dessen Variable auf 1 ist. Nur dann wird bei Berühren mit der Zielinie und damit auch dem schwarzen Strich die Rundenvariable um einen erhöht. Dies setzt die Checkpointvariable erneut auf 0, wodurch man wieder über diesen fahren muss.
 
-
-
 ![runden zählen](https://user-images.githubusercontent.com/88385824/144754011-90dae850-1dad-402f-9604-4089cd031c29.PNG)
 
+Zuletzt begannen wir Marios Code auf Luigi zu übertragen, sodass man mit zwei Spieler spielen kann.
 
+### Mittwoch 1. September <a name="10">
+
+Luigis Code wurde zu ende übertragen, sodass es möglich war mit zwei Spilern zu spielen. Allerdings war es noch möglich über die regenbogenfarbende Fahrbahnumrandung zu fahren. Um dieses Problem zu lösen fügten wir die zweite Karte mit einem Ghost Effect ein. Sobald man das grüne berührte wurde die Speedvariable mal -0,5 multipliziert. Wenn man über den Sand fährt wird die Speedvariable mit 0,8 multipliziert, sodass man langsamer ist, auf dem Asphalt. 
 
  
-### Mittwoch 1. September <a name="10">
-Luigi angefangen
 ### Dienstag 7. September <a name="11">
 Luigi beendet
 ### Mittwoch 8. September <a name="12">
