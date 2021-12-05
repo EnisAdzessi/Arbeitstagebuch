@@ -59,6 +59,9 @@ Zuhause haben wir uns mit den unteschiedlichen Programmeirsprachen befasst und h
 
 ### Mittwoch 11. August<a name="4">
 Nach einer kurzen Rücksprache mit Herrn Buhl entschieden mit Scratch zu programmieren, da dies eine sehr anfängerfreundliche Programmiersprache ist. Wir trafen zur Beginn der Stunde die Entscheidung Mario Kart zu programmieren, da dies ein Spiel ist, dass wir gerne spielen. Außerdem waren wir davon überzeugt, dass es eine anpruchsvolle Aufgabe wird, die wir aber bewältigen können. Somit verbrachten wir die Stunde damit mit Scratch vertraut zu werden. Wir programmierten daraufhin ein kurzes Jump 'n' Run Spiel. 
+ 
+![Jump n Run Game](https://user-images.githubusercontent.com/88385824/144747338-e74a8426-11e3-4cde-8e38-06f888d0fbcb.PNG)
+
 
 ### Dienstag 17. August <a name="5">
 *Entfall* 
