@@ -154,7 +154,8 @@ Diese Stunde verbrachten wir damit das Problem der leeren Item Reels zu lösen. 
 ### Dienstag 21. September <a name="15">
 In der Stunde begannen die Items zu machen. Zuerst starteten wir in dem wir einen roten Punkt machten, der dauerhaft den Spieler verfolt. Diesen kann man aufrgund den Ghost Efects nicht sehen. Die Items werden dann auf diesem Punkt erscheinen. Wir starteten mit dem Mushroomm, das besondere bei diesem Items ist, dass es sein Kostüm ändern, wenn es verwendetet wird. Demnach sorgten wir zuerst dafür, dass dies funktioniert. Anschließend brachten wir den Mushroom zum Funktionieren in dem er die Message "Mushroom Speedboost" broadcastet, wenn Leertaste oder b gedrückt wird. Dies erhöht die Speedvariable für 2,5 Sekunden um 3. 
  
- 
+![Mushroom code](https://user-images.githubusercontent.com/88385824/144757343-588740ef-4026-456a-94d4-3d9ad743ec59.PNG)
+![mushroom speedboost](https://user-images.githubusercontent.com/88385824/144757346-2a981359-8ec4-4e28-aab1-d2b2c664222b.PNG)
 
 ### Mittwoch 22. September <a name="16">
 Mushroom begonnen
