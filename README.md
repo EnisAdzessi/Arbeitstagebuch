@@ -19,6 +19,10 @@
 </details> <hr>
 
  ### [September](#September)
+  
+  <details>
+ <summary>einzelnen Stunden</summary>
+  
   * [1.September](#10)
   * [7.September](#11)
   * [8.September](#12)
@@ -28,8 +32,15 @@
   * [22.September](#16)
   * [28.September](#17)
   * [29.September](#18)
-### [Oktober](#Oktober)
-  * [5.Oktober](#19)
+
+ </details> <hr>
+ 
+ ### [Oktober](#Oktober)
+ <details>
+ <summary>einzelnen Stunden</summary>
+ 
+ 
+ * [5.Oktober](#19)
   * [6.Oktober](#20)
   * [12.Oktober](#21)
   * [13.Oktober](#22)
@@ -37,8 +48,15 @@
   * [20.Oktober](#24)
   * [26.Oktober](#25)
   * [27.Oktober](#26)
+
+</details> <hr>
+
 ### [November](#November)
-  * [2.November](#27)
+ <details>
+ <summary>einzelnen Stunden</summary>
+ 
+ 
+ * [2.November](#27)
   * [3.November](#28)
   * [9.November](#29)
   * [10.November](#30)
@@ -47,9 +65,15 @@
   * [23.November](#33)
   * [24.November](#34)
   * [30.November](#35)
-### [Dezember](#Dezember)
-  * [1.Dezember](#36)
 
+### [Dezember](#Dezember)
+  <details>
+ <summary>einzelnen Stunden</summary>
+ 
+ 
+ * [1.Dezember](#36)
+
+</details> <hr>
 
 ### Dienstag 3. August <a name="1">
 
