@@ -43,7 +43,7 @@
 ### [November](#November)
 
  * [2.November](#27)
-  *[3.November](#28)
+  * [3.November](#28)
   * [9.November](#29)
   * [10.November](#30)
   * [16.November](#31)
