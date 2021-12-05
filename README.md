@@ -165,7 +165,10 @@ In der Stunde begannen die Items zu machen. Zuerst starteten wir in dem wir eine
 
 
  ### Dienstag 28. September <a name="17">
-Mushroom durch
+Diese Stunde versuchten wir unseren Green Shell Problem auf den grund zu gehen. Uns kam die Idee, dass man das Problem mit Distanzen lösen könnte. Wenn die Green Shell in der Nähe des Spielers ist soll sie dieser sich drehen. Demna probierten wir dies aus. Außerdem wollten wir, dass die Green Shell an der Wand abprallt, was wir zum Teil hinbekamen. Wir definierten den Aufprall als das Berühren der Regenbogenfarbenden Fahrbahnumrandung unnd codeten, dass sie beim Berühren ihre Richtung um 180 Grad ändern soll. Wie auch im original Mario Kart wollten wir, dass nach 4 mal Aufprallen die Green Shell verschwindet. Das Abprallen funktionierte noch nich ganz so wie wir uns das vorgestellt haben, aber zumindest reagiert der andere Spieler, wenn er von der Green Shell getroffen wurde. 
+ 
+ 
+ 
 ### Mittwoch 29. September <a name="18">
 *Entfall*
 ### Dienstag 5. Oktober <a name="19">
@@ -176,13 +179,17 @@ Mushroom durch
 *Ferien*
 ### Mittwoch 13. Oktober <a name="22">
 *Ferien*
-### Dienstag 19. Oktober <a name="23">
+
+ ### Dienstag 19. Oktober <a name="23">
 Item reel begonnen, prtoblem mit leerem Item Reel
-### Mittwoch 20. Oktober <a name="24">
+
+ ### Mittwoch 20. Oktober <a name="24">
 Problem gelöst leeres Items Reel
-### Dienstag 26. Oktober <a name="25">
+
+ ### Dienstag 26. Oktober <a name="25">
 Item Reel Spiler 2, Mushroom begonnnen
-### Mittwoch 27. Oktober <a name="26">
+
+ ### Mittwoch 27. Oktober <a name="26">
 Mushroom durch 
 
 ### Dienstag 2. November <a name="27">
