@@ -58,7 +58,7 @@ Heute haben wir uns weiter mit dem Programmieren befasst, wir konnten uns jedoch
 Zuhause haben wir uns mit den unteschiedlichen Programmeirsprachen befasst und haben uns schlußendlich für JavaScript entschieden, da Julian bereits einige Vorkenntnisse mit dieser Programmiersprache hat. Wir verbrachten den Großteil der Stunde damit, uns die Grundlagen anzueignen, um mit dem Programmieren des Spiel zu starten. Wir entschieden uns ein Jump 'n' Run Spiel zu programmieren.
 
 ### Mittwoch 11. August<a name="4">
-Nach einer kurzen Rücksprache mit Herrn Buhl entschieden mit Scratch zu programmieren, da dies eine sehr anfängerfreundliche Programmiersprache ist. Wir trafen zur Beginn der Stunde die Entscheidung Mario Kart zu programmieren, da dies ein Spiel ist, dass wir gerne spielen. Außerdem waren wir davon überzeugt, dass es eine anpruchsvolle Aufgabe wird, die wir aber bewältigen können. Somit verbrachten wir die Stunde damit mit Scratch vertraut zu werden.  
+Nach einer kurzen Rücksprache mit Herrn Buhl entschieden mit Scratch zu programmieren, da dies eine sehr anfängerfreundliche Programmiersprache ist. Wir trafen zur Beginn der Stunde die Entscheidung Mario Kart zu programmieren, da dies ein Spiel ist, dass wir gerne spielen. Außerdem waren wir davon überzeugt, dass es eine anpruchsvolle Aufgabe wird, die wir aber bewältigen können. Somit verbrachten wir die Stunde damit mit Scratch vertraut zu werden. Wir programmierten daraufhin ein kurzes Jump 'n' Run Spiel. 
 
 ### Dienstag 17. August <a name="5">
 *Entfall* 
