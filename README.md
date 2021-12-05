@@ -60,7 +60,7 @@
 
  ### Dienstag 3. August <a name="1">
 
-Zunächst haben wir die Stunde mit einer Kurzen Einführung begonnen. Dann haben wir uns einen GitHub Account erstellt. Nachdem wir den GitHub Account erstellt haben haben wir ein Projekt erstellt. Dann haben wir uns mit GitHub bekannt gemacht und einen Dokument zur Einführung bekommen. Auf diesem waren einige Vorschläge für Anfänger im Programmieren. Wir haben uns dann ein programm namens Applab rausgesucht und mit diesem etwas geübt. Den rest der stunde haben wir damit verbracht uns ein Thema für unser Projekt zu überlegen. Wir haben uns dazu entschlossen ein Spiel zu programmieren uns ist aber noch nicht ganz bewusst wie dieses aufgebaut ist. Zuhause haben wir uns dann beide weiter mit dem Einstieg ins Programmieren beschäftigt.
+Zunächst haben wir die Stunde mit einer kurzen Einführung begonnen. Dann haben wir uns einen GitHub Account erstellt. Nachdem wir den GitHub Account erstellt haben haben wir ein Projekt erstellt. Dann haben wir uns mit GitHub bekannt gemacht und einen Dokument zur Einführung bekommen. Auf diesem waren einige Vorschläge für Anfänger im Programmieren. Wir haben uns dann ein programm namens Applab rausgesucht und mit diesem etwas geübt. Den rest der stunde haben wir damit verbracht uns ein Thema für unser Projekt zu überlegen. Wir haben uns dazu entschlossen ein Spiel zu programmieren uns ist aber noch nicht ganz bewusst wie dieses aufgebaut ist. Zuhause haben wir uns dann beide weiter mit dem Einstieg ins Programmieren beschäftigt.
 
 
 ### Mittwoch 4. August <a name="2">
@@ -85,7 +85,20 @@ In dieser Stunde begannen wir Mario Kart zu programmieren. Hierfür suchten wir 
 https://imgur.com/a/nPwUSRr
 
 Wir exportierten die Bilder in Scrtach und ordneten die einzelnen Kostüme der Reihe nach. Das erste Kostüm musste hierfur nach vorne schauen, alle nachfolgenden Kostüme drehten sich immer mehr nach rechts, bis das 23. Kostüm wieder identisch zum 1. war. Außerdem mussten wir die Kostüme zentrieren, damit sie sich nicht schräg auf der Rennstrecke befinden. 
- 
+
+Die Reihenfolge der Kostüme
+
+![kostüme reihenfolge 1](https://user-images.githubusercontent.com/88385824/144750915-79a8c457-0197-485e-9b4f-fba163012826.PNG)
+![kostüme reihenfolge 2](https://user-images.githubusercontent.com/88385824/144750917-6e2a6c7a-4395-46e3-ab15-1e42401f5c30.PNG)
+![kostüme reihenfolge 3](https://user-images.githubusercontent.com/88385824/144750919-01b1ac14-2572-425c-a9ef-e617a6475386.PNG)
+![kostüme reihenfolge 4](https://user-images.githubusercontent.com/88385824/144750920-209178cf-32c0-43f3-b0fc-580b1d9885c4.PNG)
+
+Das Zentrieren der Figuren 
+
+![zentrieren Mario](https://user-images.githubusercontent.com/88385824/144750928-3c318076-73d0-465d-8cb5-71b1db8a633c.PNG)
+![zentrieren Mario 2](https://user-images.githubusercontent.com/88385824/144750929-87fc7b47-98e1-4996-9bab-3c06b9dcff1c.PNG)
+
+
 
 ### Mittwoch 25. August <a name="8">
 Fahren zum funktionieren gebracht, mit Kostümen, dont rotate gefunden
