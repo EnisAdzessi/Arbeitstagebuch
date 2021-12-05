@@ -98,7 +98,7 @@ Das Zentrieren der Figuren
 ![zentrieren Mario](https://user-images.githubusercontent.com/88385824/144750928-3c318076-73d0-465d-8cb5-71b1db8a633c.PNG)
 ![zentrieren Mario 2](https://user-images.githubusercontent.com/88385824/144750929-87fc7b47-98e1-4996-9bab-3c06b9dcff1c.PNG)
 
-
+Außerdem fügten wir die Map als Hintergrund ein. 
 
 ### Mittwoch 25. August <a name="8">
 Fahren zum funktionieren gebracht, mit Kostümen, dont rotate gefunden
