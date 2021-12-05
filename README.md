@@ -190,13 +190,13 @@ In dieser Stunde beschäftigen wir uns mit der Banane. Sie soll, wenn sie ausgel
 
 
  ### Mittwoch 20. Oktober <a name="24">
-Problem gelöst leeres Items Reel
+Red Shell begonnen Problem erkannt von mehreren 
 
  ### Dienstag 26. Oktober <a name="25">
-Item Reel Spiler 2, Mushroom begonnnen
+Red Shell Problem versucht zu fixen,
 
  ### Mittwoch 27. Oktober <a name="26">
-Mushroom durch 
+
 
 ### Dienstag 2. November <a name="27">
 Banana, Red Shell und Green Shell begonnen 
