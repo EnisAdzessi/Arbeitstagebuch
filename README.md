@@ -167,6 +167,9 @@ In der Stunde begannen die Items zu machen. Zuerst starteten wir in dem wir eine
  ### Dienstag 28. September <a name="17">
 Diese Stunde versuchten wir unseren Green Shell Problem auf den grund zu gehen. Uns kam die Idee, dass man das Problem mit Distanzen lösen könnte. Wenn die Green Shell in der Nähe des Spielers ist soll sie dieser sich drehen. Demna probierten wir dies aus. Außerdem wollten wir, dass die Green Shell an der Wand abprallt, was wir zum Teil hinbekamen. Wir definierten den Aufprall als das Berühren der Regenbogenfarbenden Fahrbahnumrandung unnd codeten, dass sie beim Berühren ihre Richtung um 180 Grad ändern soll. Wie auch im original Mario Kart wollten wir, dass nach 4 mal Aufprallen die Green Shell verschwindet. Das Abprallen funktionierte noch nich ganz so wie wir uns das vorgestellt haben, aber zumindest reagiert der andere Spieler, wenn er von der Green Shell getroffen wurde. 
  
+![abprall wand](https://user-images.githubusercontent.com/88385824/144758977-a7921100-8799-4112-ad94-b247cf92f86f.PNG)
+![Green shell fertiger code](https://user-images.githubusercontent.com/88385824/144758978-9a75d760-a4e8-4846-afe6-7a12f06bc240.PNG)
+
  
  
 ### Mittwoch 29. September <a name="18">
