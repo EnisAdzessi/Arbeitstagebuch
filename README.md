@@ -5,6 +5,7 @@
 ### [August](#August)
 <details>
  <summary>einzelnen Stunden</summary>
+ 
   * [3.August](#1)
   * [4.August](#2)
   * [10.August](#3)
@@ -15,7 +16,7 @@
   * [25.August](#8)
   * [31.August](#9)
 
-</details< <hr>
+</details> <hr>
 
  ### [September](#September)
   * [1.September](#10)
