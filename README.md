@@ -184,7 +184,7 @@ Diese Stunde versuchten wir unseren Green Shell Problem auf den grund zu gehen. 
 *Ferien*
 
  ### Dienstag 19. Oktober <a name="23">
-Item reel begonnen, prtoblem mit leerem Item Reel
+In dieser Stunde beschäftigen wir uns mit der Banane. Sie soll, wenn sie ausgelöst wird hinter den Spieler platziert werden. Wenn der andere Spieler sie berührt soll dieser sich um 360 Grad drehen. Hierfür muss die Banane liegen bleiben, bis sie wieder verwendet wird. Hier trat wieder das Problem auf, dass der touching Block nicht funktionierte, deswegen mussten wir dies wieder mit den der Distanz lösen. Wir schafften es die Banane hinter den Spieler zu bringen, jedoch gelang es und nicht dauerhaft den andren Spieler zum Drehen zu bringen. 
 
  ### Mittwoch 20. Oktober <a name="24">
 Problem gelöst leeres Items Reel
