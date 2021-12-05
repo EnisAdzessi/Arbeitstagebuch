@@ -100,6 +100,7 @@ Das Zentrieren der Figuren
 
 Außerdem fügten wir die Map als Hintergrund ein. 
 
+
 ### Mittwoch 25. August <a name="8">
 Fahren zum funktionieren gebracht, mit Kostümen, dont rotate gefunden
 ### Dienstag 31. August <a name="9">
