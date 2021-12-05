@@ -100,6 +100,8 @@ Das Zentrieren der Figuren
 
 Außerdem fügten wir die Map als Hintergrund ein. 
 
+![backdrop](https://user-images.githubusercontent.com/88385824/144751267-96d4f664-0036-471a-96e4-83259c3b521a.PNG)
+
 
 ### Mittwoch 25. August <a name="8">
 Fahren zum funktionieren gebracht, mit Kostümen, dont rotate gefunden
