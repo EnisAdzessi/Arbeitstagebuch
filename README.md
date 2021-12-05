@@ -75,14 +75,18 @@ Nach einer kurzen Rücksprache mit Herrn Buhl entschieden mit Scratch zu program
  
 ![Jump n Run Game](https://user-images.githubusercontent.com/88385824/144747338-e74a8426-11e3-4cde-8e38-06f888d0fbcb.PNG)
 
-
 ### Dienstag 17. August <a name="5">
 *Entfall* 
 
 ### Mittwoch 18. August <a name="6"> 
 *Entfall*
 ### Dienstag 24. August <a name="7">
-Sprites und Map gefunden, Kostüme in richtige REinfolge
+In dieser Stunde begannen wir Mario Kart zu programmieren. Hierfür suchten wir zu Beginn nach einer Mario Kart Karte und den Mario und Luigi Sprites. Wir waren uns einig, dass wir ein Spiel für zwei Spieler machen wollten. Die Sprite fanden wir hier:
+https://imgur.com/a/nPwUSRr
+
+Wir exportierten die Bilder in Scrtach und ordneten die einzelnen Kostüme der Reihe nach. Das erste Kostüm musste hierfur nach vorne schauen, alle nachfolgenden Kostüme drehten sich immer mehr nach rechts, bis das 23. Kostüm wieder identisch zum 1. war. Außerdem mussten wir die Kostüme zentrieren, damit sie sich nicht schräg auf der Rennstrecke befinden.
+ 
+
 ### Mittwoch 25. August <a name="8">
 Fahren zum funktionieren gebracht, mit Kostümen, dont rotate gefunden
 ### Dienstag 31. August <a name="9">
