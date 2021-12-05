@@ -126,6 +126,8 @@ Zuletzt begannen wir Marios Code auf Luigi zu übertragen, sodass man mit zwei S
 
 Luigis Code wurde zu ende übertragen, sodass es möglich war mit zwei Spilern zu spielen. Allerdings war es noch möglich über die regenbogenfarbende Fahrbahnumrandung zu fahren. Um dieses Problem zu lösen fügten wir die zweite Karte mit einem Ghost Effect ein. Sobald man das grüne berührte wurde die Speedvariable mal -0,5 multipliziert. Wenn man über den Sand fährt wird die Speedvariable mit 0,8 multipliziert, sodass man langsamer ist, auf dem Asphalt. 
 
+![speed unterschiedlicher untergrund](https://user-images.githubusercontent.com/88385824/144754646-2475ef38-76a0-4202-b30e-894bbc42d100.PNG)
+
  
 ### Dienstag 7. September <a name="11">
 Luigi beendet
