@@ -81,10 +81,10 @@ Nach einer kurzen Rücksprache mit Herrn Buhl entschieden mit Scratch zu program
 ### Mittwoch 18. August <a name="6"> 
 *Entfall*
 ### Dienstag 24. August <a name="7">
-In dieser Stunde begannen wir Mario Kart zu programmieren. Hierfür suchten wir zu Beginn nach einer Mario Kart Karte und den Mario und Luigi Sprites. Wir waren uns einig, dass wir ein Spiel für zwei Spieler machen wollten. Die Sprite fanden wir hier:
+In dieser Stunde begannen wir Mario Kart zu programmieren. Hierfür suchten wir zu Beginn nach einer Mario Kart Karte und den Mario und Luigi Sprites. Wir waren uns einig, dass wir ein Spiel für zwei Spieler machen wollten. Die Sprites und die Karte fanden wir hier:
 https://imgur.com/a/nPwUSRr
 
-Wir exportierten die Bilder in Scrtach und ordneten die einzelnen Kostüme der Reihe nach. Das erste Kostüm musste hierfur nach vorne schauen, alle nachfolgenden Kostüme drehten sich immer mehr nach rechts, bis das 23. Kostüm wieder identisch zum 1. war. Außerdem mussten wir die Kostüme zentrieren, damit sie sich nicht schräg auf der Rennstrecke befinden.
+Wir exportierten die Bilder in Scrtach und ordneten die einzelnen Kostüme der Reihe nach. Das erste Kostüm musste hierfur nach vorne schauen, alle nachfolgenden Kostüme drehten sich immer mehr nach rechts, bis das 23. Kostüm wieder identisch zum 1. war. Außerdem mussten wir die Kostüme zentrieren, damit sie sich nicht schräg auf der Rennstrecke befinden. 
  
 
 ### Mittwoch 25. August <a name="8">
