@@ -131,7 +131,12 @@ Luigis Code wurde zu ende übertragen, sodass es möglich war mit zwei Spilern z
 
  
 ### Dienstag 7. September <a name="11">
-Luigi beendet
+In der heutigen Stunde begannen wir damit die Items in das Spiel zu implementieren. Zunächst überlegten wir uns welche Items wir in das integrieren wollen. Wir entschieden uns schlußendlich für den Mushroom, die Green Shell, die Red Shell und der Banane. Wir wollten auch anders als in den Original Mario Kart Spielen keine Itemsboxen zum Spiel hinzufügen, da wir es als amüsanter ansehen die Items immer bereit zu haben. Sie suchten dementsprechend nach Sprites von den Items und fanden auf Scratch ein Mario Kart Remix in denen die Sprites enthalten waren. 
+https://scratch.mit.edu/projects/546284686/editor/
+Wir exportierten die Sprites mitsamt dem Item Reel und programmiereten es so, dass es bei Beginn des Spiel ein Zahl zwischen 60-64 nimmt. Dies ist die Anzahl der Kostüme, die nach vorne gegangen werden. je nach dem auf welchem Kostüm es landet, ist das Item welches der Spieler erhält. Wir erkannten jedoch kurz vor Ende das Problem, dass das leere Item Reel auch unter den Kostümen enthalten ist und dementsprechend auch ausgewählt werden kann. 
+ 
+
+ 
 ### Mittwoch 8. September <a name="12">
 Geschwindigkeiten angefangen zu fixen
 ### Diesntag 14. September <a name="13">
