@@ -116,7 +116,7 @@ Außerdem änderten wir den Rotationstil vom Mario Sprite, da er sich um seine A
 ![rotation style](https://user-images.githubusercontent.com/88385824/144753079-9e89da6f-42f9-4935-89de-10c263d6560a.PNG)
  
  ### Dienstag 31. August <a name="9">
-Checkpoint gefixt
+Wir fügten in dieser Stunde einen Rundenzähler ein. Es handelte es sich um einen schwarzen Strich, der durch den "Ghost Effect" in Scratch nicht zu sehen war. Wenn der Spieler diesen Strich wurde seine Rundenzahlvariable erhöht. Wenn diese Variable 3 erreichte wird das Spiel beendet. Das Problem war hier jedoch das man keine Runden fahren brauchte, um die Variable auf 3 zu bringen. Es reichte aus sie drei mal nacheinander zu berühren. Wir lösten dieses Problem indem wir einen Checkpoint implementierten. Dieser befand sich auf der anderen Seite der Rennstrecke, sodass man eine ganze Runden fahren muss, um diesen zu erreichen. Der Rundenzähler wird nur hochgesetzt, wenn man über den Checkpoint gefahren ist und dessen Variable auf 1 ist. Nur dann wird bei Berühren mit der Zielinie und damit auch dem schwarzen Strich die Rundenvariable um einen erhöht. Dies setzt die Checkpointvariable erneut auf 0, wodurch man wieder über diesen fahren muss.
 ### Mittwoch 1. September <a name="10">
 Luigi angefangen
 ### Dienstag 7. September <a name="11">
