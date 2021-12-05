@@ -158,8 +158,10 @@ In der Stunde begannen die Items zu machen. Zuerst starteten wir in dem wir eine
 ![mushroom speedboost](https://user-images.githubusercontent.com/88385824/144757346-2a981359-8ec4-4e28-aab1-d2b2c664222b.PNG)
 
 ### Mittwoch 22. September <a name="16">
-Heute erstellten wir das Item Reel für den 2. Spieler und begannen die Green Shell funktionsfähig zu machen. Sie kann 
-### Dienstag 28. September <a name="17">
+
+ Heute erstellten wir das Item Reel für den 2. Spieler und begannen die Green Shell funktionsfähig zu machen. Wenn sie einen Speielr trifft, soll dieser sich um 360 drehen. Wie auch beim Mushroom erscheint die Green Shell hinter auf dem Item Sprite und wird wenn Leertaste oder B gedrückt in Blickrichttung des Spielers geschossen. Es entstand zum einen das Problem, dass der touching BLock in Sprite nicht funktionierte. Wenn die Green Shell den anderen Spieler traf passiert nichts. Wir verbrachten den rest der Stunde damit ein Lösung für das Problem zu finden.   
+
+ ### Dienstag 28. September <a name="17">
 Mushroom durch
 ### Mittwoch 29. September <a name="18">
 *Entfall*
