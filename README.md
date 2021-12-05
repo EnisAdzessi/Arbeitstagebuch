@@ -104,8 +104,11 @@ Außerdem fügten wir die Map als Hintergrund ein.
 
 
 ### Mittwoch 25. August <a name="8">
-In dieser Stunden haben wir uns mit dem Fahren von Mario auseinandergesetzt. Hierfür benutzen wir eine Variable, die wir Speed nannten. Diese Speedvariable kann maximal 5 sein und wird jede Sekunde um 0,5 erhöht. Mario bewegt sich in Speed Steps was bedeutet, dass er so viele Steps in der Sekunde mnacht, wie hoch die Variable ist. 
+In dieser Stunden haben wir uns mit dem Fahren von Mario auseinandergesetzt. Hierfür benutzen wir eine Variable, die wir Speed nannten. Diese Speedvariable kann maximal 5 sein und wird jede Sekunde um 0,5 erhöht. Mario bewegt sich in Speed Steps was bedeutet, dass er so viele Steps in der Sekunde mnacht, wie hoch die Variable ist. Das Lenken machten wir mit den Pfleistasten. Mario dreht sich um 7 Grad, wenn diese gedrückt werden
 
+![Mario fahren](https://user-images.githubusercontent.com/88385824/144752750-bcd09226-4f5b-4f43-b1bc-a1fe86aca6a6.PNG)
+ 
+A
  ### Dienstag 31. August <a name="9">
 Checkpoint gefixt
 ### Mittwoch 1. September <a name="10">
