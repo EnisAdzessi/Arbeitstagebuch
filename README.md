@@ -78,11 +78,11 @@ Luigi beendet
 ### Mittwoch 8. September <a name="12">
 Geschwindigkeiten angefangen zu fixen
 ### Diesntag 14. September <a name="13">
- weiter pace gefixt
+ *Entfall*
 ### Mittwoch 15.September <a name="14">
- Pace fertig mit hintergrundmap
+*Entfall*
 ### Dienstag 21. September <a name="15">
- Items begonnnen, hinter spieler bringen und Items Sprite gesucht
+ Pace beendet, Items und Item Reel 
 ### Mittwoch 22. September <a name="16">
 Mushroom begonnen
 ### Dienstag 28. September <a name="17">
