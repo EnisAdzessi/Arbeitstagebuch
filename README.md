@@ -270,7 +270,10 @@ Dies erscheint nachdem man auf dne Play Button klickt.
 
 
  ### Mittwoch 24. November <a name="34">
- Shells und Banana gefixt
+In dieser Stunde machten wir einen Countdown, der nach Erkärung der Steuerung runterzählt und nach 1 das Spiel satrtet. nach dem die Steuerung erklärt wird, wird die Mesagge Countdown gebroadcastet, dies startet diesen und zählt die Kostüme 3 bis 0 runter. Wenn das vierte Kostüm erreicht wird, wird das Spiel gestartet. Für den Einzelspieler gibt es einen anderen Countdown Sprite, dieser wird gestartet nachdem die Steuerung vom Einzelspielr erklärt wird und startet das Spiel ebenfalls, wenn das vierte Kostüm erreicht wird. 
+ 
+ 
+ 
 
  ### Dienstag 30. November <a name="35">
  Menü, Spielmodi, Endscreen gemacht, 
