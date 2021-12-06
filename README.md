@@ -240,8 +240,12 @@ Wir führten die Erklärung der Steuerung fort. Wir machen hierfür zwei Kostüm
 
 
  ### Mittwoch 17. November <a name="32">
-Problem von Items behoben 
+In der heutuigen Stunde machten wir einen Endscreen für beide Spiele. Je nach dem welcher Spieler zuerst drei Runden fährt, also die Rundenvariable = 3 ist, gewinnt. Es erscheint Bild, dass dem jeweiligen Spieler gratuliert. 
 
+ 
+ 
+ 
+ 
  ### Dienstag 23. November <a name="33">
  neues Problem Erkennung von Farben mit Itemsm, Problem behoben 
 
