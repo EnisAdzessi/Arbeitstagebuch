@@ -224,6 +224,8 @@ Heute führten wir das Startmenü fort. Wir seperierten den Play Button und den 
 ![farben switch steuerung](https://user-images.githubusercontent.com/88385824/144898354-5442b31a-600d-474a-afe7-dafe561d6cd1.PNG)
 ![farben siwtch play](https://user-images.githubusercontent.com/88385824/144898358-164be6a8-1efc-457e-8e1d-72b47ca3b5b1.PNG)
 
+![3axvaw9y](https://user-images.githubusercontent.com/88385824/144898455-9615ea03-44ad-4dd2-9223-763524abb7c6.gif)
+
 
 
  ### Dienstag 16. November <a name="31">
