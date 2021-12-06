@@ -299,5 +299,5 @@ In diesen Stunde machten wir einen Timer, der dem Spieler die Zeit anzeigt. Der 
 
 
 ### Mittwoch 1. Dezember <a name="36">
-Timer gemacht
+In dieser Stunde arbeiteten wir an unserem Blog und behebten einige Fehler die wir im Code noch hatten.
 
