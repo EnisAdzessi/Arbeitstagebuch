@@ -190,10 +190,10 @@ In dieser Stunde beschäftigen wir uns mit der Banane. Sie soll, wenn sie ausgel
 
 
  ### Mittwoch 20. Oktober <a name="24">
-Heute versuchten wir das Problem der Green Shell zu lösen, wir prüfen, ob der touching Block mit Klonen funktionierte. Wir wurden jedoch enttäuscht und mussten das Berühren wider mit den Distanzen lösen. Es handelt sich hier aber nicht um eine langfristige Lösung, weil dies nicht immer funktionierte. Den Rest der Stunde nutzen wir um unsere Github Seite ansprechender zu gestalten, indem wir uns informierten, wie man ein Inhaltsverzeichnis macht  
+Heute versuchten wir das Problem der Green Shell zu lösen, wir prüfen, ob der touching Block mit Klonen funktionierte. Wir wurden jedoch enttäuscht und mussten das Berühren wider mit den Distanzen lösen. Es handelt sich hier aber nicht um eine langfristige Lösung, weil dies nicht immer funktionierte. Den Rest der Stunde nutzen wir um unsere Github Seite ansprechender zu gestalten, indem wir uns informierten, wie man ein Inhaltsverzeichnis macht.  
 
  ### Dienstag 26. Oktober <a name="25">
-Red Shell Problem versucht zu fixen,
+Wir begannen in dieser Studne die Red Shell zu machen. Sie soll den gegnerischen Spieler verfolgen und dieser soll sich beim Kontakt um 360 Grad drehen. Durch den glide to .. in ... Sekunden Block in Scratch, war das Verfolgen des gegnerischen Spielers nicht schwer zu programmieren. Wenn die Leertaste gedrückt wird, soll die Red Shell zum Spieler gleiten. Wenn die Distanz zum Spieler klein wird, soll dieser die Message "Red Shell hit" broadcasten, die widderum den Spieler zum Drehen bringt. Wenn der Spieler das Drehen beendet hat, soll die Red Shell verschwinden. 
 
  ### Mittwoch 27. Oktober <a name="26">
 
