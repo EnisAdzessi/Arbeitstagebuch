@@ -299,5 +299,5 @@ In diesen Stunde machten wir einen Timer, der dem Spieler die Zeit anzeigt. Der 
 
 
 ### Mittwoch 1. Dezember <a name="36">
-In dieser Stunde arbeiteten wir an unserem Blog und behebten einige Fehler die wir im Code noch hatten.
+In dieser Stunde arbeiteten wir an unserer Projektseite und behebten einige Fehler die wir im Code noch hatten. Wir schaften es alle Items überwiegedn zum Funktinieren zu bringen. Allerdings konnten wir das Problem mit der Rundenvariablem, welches auftritt,wenn der Spieler ein Item hat nicht beheben.
 
