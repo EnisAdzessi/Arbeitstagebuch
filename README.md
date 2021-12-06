@@ -242,7 +242,15 @@ Wir führten die Erklärung der Steuerung fort. Wir machen hierfür zwei Kostüm
  ### Mittwoch 17. November <a name="32">
 In der heutuigen Stunde machten wir einen Endscreen für beide Spiele. Je nach dem welcher Spieler zuerst drei Runden fährt, also die Rundenvariable = 3 ist, gewinnt. Es erscheint Bild, dass dem jeweiligen Spieler gratuliert. 
 
- 
+![Endscreen Player 1](https://user-images.githubusercontent.com/88385824/144901566-5be8165a-ad91-408d-abc3-703b4f540581.PNG)
+
+![end game](https://user-images.githubusercontent.com/88385824/144901583-8e56bf7a-a5ba-4583-b5d3-0581dcc51d9c.PNG)
+![end game code](https://user-images.githubusercontent.com/88385824/144901589-36e4c749-87d7-4b8d-849f-54f09aa43e13.PNG)
+
+![Endscreen Player 2](https://user-images.githubusercontent.com/88385824/144901596-9e08110b-151f-447f-8908-31d17d2760cf.PNG)
+
+![end game 2](https://user-images.githubusercontent.com/88385824/144901607-3d5ea86a-ed73-46df-9e81-20d2d9c0e740.PNG)
+![end game 2 code](https://user-images.githubusercontent.com/88385824/144901630-dda9d5a0-1b4f-45a5-8f17-3f39ba3ea948.PNG)
  
  
  
