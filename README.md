@@ -204,6 +204,12 @@ Wir begannen in dieser Studne die Red Shell zu machen. Sie soll den gegnerischen
  
  ### Mittwoch 27. Oktober <a name="26">
 In der heutigen Stunde übertrugen wir den Code der Items auf den Spieler 2. Außerdem vesuchten wir das Problem der Red Shell zu lösen. Wir versuchten einen Klon auf der gegnerischen Spieler zu schießen. Wenn dieser Klon den Spieler erreicht hat soll der Klon gelöscht werden. Der Spiler erhält eine Message vom der Red Shell, die ihn auffordert sich zu drehen.  
+ 
+
+![red shell code](https://user-images.githubusercontent.com/88385824/144886427-362731c0-853c-4a53-abe3-fcac67700c04.PNG)
+
+
+
 
 ### Dienstag 2. November <a name="27">
 Banana, Red Shell und Green Shell begonnen 
