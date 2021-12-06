@@ -194,6 +194,12 @@ Heute versuchten wir das Problem der Green Shell zu lösen, wir prüfen, ob der 
 
  ### Dienstag 26. Oktober <a name="25">
 Wir begannen in dieser Studne die Red Shell zu machen. Sie soll den gegnerischen Spieler verfolgen und dieser soll sich beim Kontakt um 360 Grad drehen. Durch den glide to .. in ... Sekunden Block in Scratch, war das Verfolgen des gegnerischen Spielers nicht schwer zu programmieren. Wenn die Leertaste gedrückt wird, soll die Red Shell zum Spieler gleiten. Wenn die Distanz zum Spieler klein wird, soll dieser die Message "Red Shell hit" broadcasten, die widderum den Spieler zum Drehen bringt. Wenn der Spieler das Drehen beendet hat, soll die Red Shell verschwinden. 
+ 
+![red shell 1 code](https://user-images.githubusercontent.com/88385824/144878173-a7cb46e8-409a-450d-a6de-9684711b1213.PNG)
+![end red shell hit](https://user-images.githubusercontent.com/88385824/144878184-93132d46-a163-4de0-bc06-cf7c78d3f3b9.PNG)
+![end red shell hit 2](https://user-images.githubusercontent.com/88385824/144878191-3915181c-bc33-4a2a-9ef9-599a20e3c714.PNG)
+![red shell hit](https://user-images.githubusercontent.com/88385824/144878196-1e554d8e-5d3c-4966-9e41-6ca0c62271c6.PNG)
+
 
  ### Mittwoch 27. Oktober <a name="26">
 
