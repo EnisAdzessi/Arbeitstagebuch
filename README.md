@@ -219,7 +219,7 @@ In der heutigen Stunde begannen wir das Startmenü zu machen. Hierfür zeichnete
 *Entfall*
 
  ### Mittwoch 10. November <a name="30">
-Heute führten wir das Startmenü fort. Wir seperierten den Play Button und den Steuerungsbutton von den 1. Kostüm mit der Mario Kart Überschrift und dem blauen Hintergrund. Wir konnten dann den "When this Sprite clicked" Block verwenden, um das Spiel zu starten wenn der "Play" Sprite gedrückt wird oder die Steurung anzuzeigen, wenn dessen Sprite angeklickt wird. Außerdem machten wir ein neuus Kostum, bei dem die Farben umgekehrt sind. Wenn man sich mit der maus auf den jewiligen Sprites befindet wird das Kostüm geändert, sodass das Startmenü mit dem Spieler interagiert. 
+Heute führten wir das Startmenü fort. Wir seperierten den Play Button und den Steuerungsbutton von den 1. Kostüm mit der Mario Kart Überschrift und dem blauen Hintergrund. Wir konnten dann den "When this Sprite clicked" Block verwenden, um das Spiel zu starten wenn der "Play" Sprite gedrückt wird oder die Steurung anzuzeigen, wenn dessen Sprite angeklickt wird. Außerdem machten wir ein neuus Kostum, bei dem die Farben umgekehrt sind. Wenn man sich mit der maus auf den jewiligen Sprites befindet wird das Kostüm geändert, sodass das Startmenü mit dem Spieler interagiert. Außerdem begannen wir die Erklärung der Steuerung zu machen.
  
 ![farben switch steuerung](https://user-images.githubusercontent.com/88385824/144898354-5442b31a-600d-474a-afe7-dafe561d6cd1.PNG)
 ![farben siwtch play](https://user-images.githubusercontent.com/88385824/144898358-164be6a8-1efc-457e-8e1d-72b47ca3b5b1.PNG)
@@ -227,9 +227,10 @@ Heute führten wir das Startmenü fort. Wir seperierten den Play Button und den 
 ![3axvaw9y](https://user-images.githubusercontent.com/88385824/144898455-9615ea03-44ad-4dd2-9223-763524abb7c6.gif)
 
 
-
  ### Dienstag 16. November <a name="31">
- Red Shell gefixt, Problem von unlimeted Red Shells erkannt
+Wir führten die Erklärung der Steuerung fort. Wir machen hierfür zwei Kostüme, die sich abwechseln. Die Kostümer unetrshceiden sich in kleinen Nachricht, die dem Spieler mitteil, dass er den Screen anklicken muss, um fortzufahren. Außerdem machten wir die beiden Button im Startmenü funktionstüchtig. Wenn der Play Button gedrückt wird, wird die Message "Steurung" gebroadcastet, die das Steuerungsmenü aufruft und dem Spieler die Steurung erläutert. Wenn die Steurung angelklickt wird, wird dem Spiler die Steuerung erklärt und man anschließend wieder in Startmenü zurückgeführt. 
+ 
+ 
 
  ### Mittwoch 17. November <a name="32">
 Problem von Items behoben 
