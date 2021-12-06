@@ -255,7 +255,7 @@ In der heutuigen Stunde machten wir einen Endscreen für beide Spiele. Je nach d
  
  
  ### Dienstag 23. November <a name="33">
- neues Problem Erkennung von Farben mit Itemsm, Problem behoben 
+Heute entschieden wir uns dazu einen Singleplayer zu machen. Es handelt sich um ein Zeitrennen und man soll versuchen einen bessere Zeit zu erreichen. Hierfür mussten wir uns die Frage stellen, ob wir die Items in den Singelplayer implementieren und wenn ja welche. Nach kurzer Überlegung merkten wir, dass es keinen Sinn machen würde diese hinzuzufügen, da alle Items bis auf die Mushroom einen anderen Spieler benötigen, um effektiv zu sein. Wir spielten kurz mit dem Gedanken dem Spieler jede Runde 3 Mushrooms zu kriegen. Allerdings sahen wir dies als nicht sinvoll und entschlossen und keine Items im Einzelspieler zu haben. Wir machten einen Einzelspielr und Mehrspieler Sprite, der erscheint wenn man auf den Play Button klickt. Die bedien Sprites ändern wie auch das Startmenü ihre Farbe, wenn man sie mit der Maus berührt. Wenn man auf den Einzelspieler spielt, kann man nur Mario steuern und es wird dementsprehcen nur die Steurung von einem Spieler erklärt. Um die Steurung vom Einzelspieler zu erkären machten wir einen neuen Sprite,der optisch identisch zu dem des Mehrspielrs ist.
 
  ### Mittwoch 24. November <a name="34">
  Shells und Banana gefixt
