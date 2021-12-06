@@ -169,8 +169,6 @@ Diese Stunde versuchten wir unseren Green Shell Problem auf den grund zu gehen. 
  
 ![abprall wand](https://user-images.githubusercontent.com/88385824/144758977-a7921100-8799-4112-ad94-b247cf92f86f.PNG)
 ![Green shell fertiger code](https://user-images.githubusercontent.com/88385824/144758978-9a75d760-a4e8-4846-afe6-7a12f06bc240.PNG)
-
- 
  
 ### Mittwoch 29. September <a name="18">
 *Entfall*
@@ -214,14 +212,14 @@ Während des Testens der Items fiel uns auf, dass die Sprite von Player 1 und Pl
  ### Mittwoch 3. November <a name="28">
 In der heutigen Stunde begannen wir das Startmenü zu machen. Hierfür zeichneten wir den Sprite in Scratch. Das Menü besteht aus einem Play und einem Steurungsbutton. Durch Drücken auf das Play soll man zum Spiel gelangen. Wenn man auf den Steuerungsbutton drückt, wird man zu einer kurzen Erklärung der Steuerung geführt und danach wieder zum Startmenü weitergeleitet wird. Mithilfe der Paint Funktion in Scratch war dies in einer Stunde machbar. Allerdings müssen wir einen weg finden, um alle drei Kostüme gleichzeitg sichbar zu machen und beim Anklicken der einzelenen Button einen unterschiedlichen Screen zu erhalten. 
  
- 
+![Startmenü](https://user-images.githubusercontent.com/88385824/144894152-15e2165e-5486-490a-8cae-1b0fdb5fe273.PNG)
+![Startmenü pic](https://user-images.githubusercontent.com/88385824/144894159-838f06be-7ab2-433c-affb-e167f91f7013.PNG)
 
  ### Dienstag 9. November <a name="29">
 *Entfall*
 
  ### Mittwoch 10. November <a name="30">
-
- Green Shell gefixt ohne Abprall 
+Heute führten wir das Startmenü fort. Wir seperierten den Play Button und den Steuerungsbutton von den 1. Kostüm mit der Mario Kart Überschrift und dem blauen Hintergrund. Wir konnten dann den "When this Sprite clicked" Block verwenden, um das Spiel zu starten wenn der "Play" Sprite gedrückt wird oder die Steurung anzuzeigen, wenn dessen Sprite angeklickt wird. Außerdem machten wir ein neuus Kostum, bei dem die Farben umgekehrt sind. Wenn man sich mit der maus auf den jewiligen Sprites befindet wird das Kostüm geändert, sodass das Startmenü mit dem Spieler interagiert. 
 
  ### Dienstag 16. November <a name="31">
  Red Shell gefixt, Problem von unlimeted Red Shells erkannt
