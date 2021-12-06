@@ -271,9 +271,14 @@ Dies erscheint nachdem man auf dne Play Button klickt.
 
  ### Mittwoch 24. November <a name="34">
 In dieser Stunde machten wir einen Countdown, der nach Erkärung der Steuerung runterzählt und nach 1 das Spiel satrtet. nach dem die Steuerung erklärt wird, wird die Mesagge Countdown gebroadcastet, dies startet diesen und zählt die Kostüme 3 bis 0 runter. Wenn das vierte Kostüm erreicht wird, wird das Spiel gestartet. Für den Einzelspieler gibt es einen anderen Countdown Sprite, dieser wird gestartet nachdem die Steuerung vom Einzelspielr erklärt wird und startet das Spiel ebenfalls, wenn das vierte Kostüm erreicht wird. 
- 
- 
- 
+
+![Countdown](https://user-images.githubusercontent.com/88385824/144907083-380ef400-4052-445d-aad0-d67905e3876f.PNG)
+![Countdown Single player](https://user-images.githubusercontent.com/88385824/144907091-bb80dc37-357f-4ad3-8885-4939025639e6.PNG)
+![Countdown code](https://user-images.githubusercontent.com/88385824/144907094-9c011b4f-3458-4b5b-aa9c-9717bf9fbc87.PNG)
+![start game](https://user-images.githubusercontent.com/88385824/144907102-0b1cd86e-3b62-454d-a381-54f67dcf42ea.PNG)
+
+
+
 
  ### Dienstag 30. November <a name="35">
  Menü, Spielmodi, Endscreen gemacht, 
