@@ -291,11 +291,11 @@ In diesen Stunde machten wir einen Timer, der dem Spieler die Zeit anzeigt. Der 
 
 ![10 sekunden](https://user-images.githubusercontent.com/88385824/144909497-14a60e1e-8013-4af0-baf2-1738c9d86abd.PNG)
 
- Wenn 10 Sekudnen vergehen geht dieser Sprite ein Kostüm weiter.
+ Wenn 10 Sekunden vergehen geht dieser Sprite ein Kostüm weiter.
  
 ![100 sekunden](https://user-images.githubusercontent.com/88385824/144909503-a86c0c06-8850-4b42-988e-f2e04d7eacaf.PNG)
 
- Wenn 100 Sekudnen vergehen ändert dieser Sprite das Kostüm und geht eins weiter.
+ Wenn 100 Sekunden vergehen ändert dieser Sprite das Kostüm und geht eins weiter.
 
 
 ### Mittwoch 1. Dezember <a name="36">
