@@ -235,7 +235,7 @@ Wir führten die Erklärung der Steuerung fort. Wir machen hierfür zwei Kostüm
 ![steuerung player 2](https://user-images.githubusercontent.com/88385824/144899948-f39f6ad0-5656-4a0c-90fe-5cc019b02f84.PNG)
 
 ![86zvjvy1](https://user-images.githubusercontent.com/88385824/144899994-15af6a81-4697-4769-87bd-268863aa9129.gif)
-
+![whkx9w4j](https://user-images.githubusercontent.com/88385824/144900364-cad40268-2a93-47c9-95fe-9672d2febd1d.gif)
 
 
 
