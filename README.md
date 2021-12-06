@@ -208,11 +208,8 @@ In der heutigen Stunde übertrugen wir den Code der Items auf den Spieler 2. Au�
 
 ![red shell code](https://user-images.githubusercontent.com/88385824/144886427-362731c0-853c-4a53-abe3-fcac67700c04.PNG)
 
-
-
-
 ### Dienstag 2. November <a name="27">
-Banana, Red Shell und Green Shell begonnen 
+Während des Testens der Items fiel uns auf, dass die Sprite von Player 1 und Player 2, das Berühren des Checkpoints und der Zielinie manchmal nicht erkennen. Dies geschiet aber nur wenn sie ein Item tragen, also wenn das ein Item sich auch dem Item Sprite befindet. Allerdings ist dies nicht immer der Fall, was uns ein wenig verwirrte. Wir versuchten den roten Punkt des Players zu vergrößern, damit dieser nicht vom Item Sprite überdeckt wird, wodurch er die Farben eventuell nicht mehr berührt, dies half aber nicht. Unsere nächste Idee war es die Zielinie wieder sichtbar zu machen, also den Ghost Effect zu entfernen, da das Problem beim Checkpoint seltender auftrat. Wir konnten innnerhalb der Stunde keine Lösung für das Problem finden und nutzen das Ende der Stunde, um einen Plan zu machen, was wir noch in dem Spiel implementieren wollen. Wir einigten uns auf ein Startmenü, eine Erklärung der Steuerung, einen Timer, einen Countdown und einen Endscreen wenn man die 3 Runden absolviert hat.
 
  ### Mittwoch 3. November <a name="28">
 Movement von allen durch Problem des Hits erkannt
