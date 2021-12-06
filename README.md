@@ -230,7 +230,14 @@ Heute führten wir das Startmenü fort. Wir seperierten den Play Button und den 
  ### Dienstag 16. November <a name="31">
 Wir führten die Erklärung der Steuerung fort. Wir machen hierfür zwei Kostüme, die sich abwechseln. Die Kostümer unetrshceiden sich in kleinen Nachricht, die dem Spieler mitteil, dass er den Screen anklicken muss, um fortzufahren. Außerdem machten wir die beiden Button im Startmenü funktionstüchtig. Wenn der Play Button gedrückt wird, wird die Message "Steurung" gebroadcastet, die das Steuerungsmenü aufruft und dem Spieler die Steurung erläutert. Wenn die Steurung angelklickt wird, wird dem Spiler die Steuerung erklärt und man anschließend wieder in Startmenü zurückgeführt. 
  
- 
+![play](https://user-images.githubusercontent.com/88385824/144899940-e50ebeaa-e8b7-401c-9561-13bc14200868.PNG)
+![steuerung](https://user-images.githubusercontent.com/88385824/144899945-1a634cc4-70c1-4246-a4e3-afbde13623d7.PNG)
+![steuerung player 2](https://user-images.githubusercontent.com/88385824/144899948-f39f6ad0-5656-4a0c-90fe-5cc019b02f84.PNG)
+
+![86zvjvy1](https://user-images.githubusercontent.com/88385824/144899994-15af6a81-4697-4769-87bd-268863aa9129.gif)
+![damvh6fk](https://user-images.githubusercontent.com/88385824/144900004-15cf9dd8-d584-4dcb-9056-3f4c8492c737.gif)
+
+
 
  ### Mittwoch 17. November <a name="32">
 Problem von Items behoben 
