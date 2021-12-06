@@ -200,9 +200,10 @@ Wir begannen in dieser Studne die Red Shell zu machen. Sie soll den gegnerischen
 ![end red shell hit 2](https://user-images.githubusercontent.com/88385824/144878191-3915181c-bc33-4a2a-9ef9-599a20e3c714.PNG)
 ![red shell hit](https://user-images.githubusercontent.com/88385824/144878196-1e554d8e-5d3c-4966-9e41-6ca0c62271c6.PNG)
 
-
+ Am Ende der Stunde hatten wir einige Male das Problem, dass die Red Shell den Gegner nicht zum Drehen brachte, oder nach verwenden des Items nicht verschwand, sodass sich mehrere Items hinter dem Spieler befanden
+ 
  ### Mittwoch 27. Oktober <a name="26">
-
+In der heutigen Stunde übertrugen wir den Code der Items auf den Spieler 2. Außerdem vesuchten wir das Problem der Red Shell zu lösen. Wir versuchten einen Klon auf der gegnerischen Spieler zu schießen. Wenn dieser Klon den Spieler erreicht hat soll der Klon gelöscht werden. Der Spiler erhält eine Message vom der Red Shell, die ihn auffordert sich zu drehen.  
 
 ### Dienstag 2. November <a name="27">
 Banana, Red Shell und Green Shell begonnen 
