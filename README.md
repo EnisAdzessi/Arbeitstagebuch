@@ -283,7 +283,9 @@ In dieser Stunde machten wir einen Countdown, der nach Erkärung der Steuerung r
 
 
  ### Dienstag 30. November <a name="35">
- Menü, Spielmodi, Endscreen gemacht, 
+In diesen Stunde machten wir einen Timer, der dem Spieler die Zeit anzeigt. Der Timer besteht aus drei verschiedenen Sprites, die je nachdem welche Zehnerpottenz sie einnehmen sich jede Sekunde verändern. Jeder Sprite besteht aus 10 Kostümen, die die Zahlen 0-9 enthält. Wenn man das Spiel beendet erscheint der Timer in der Mitte des Screens und zeigt dem Spieler seine erreichte Zeit. 
+ 
+ 
 
 ### Mittwoch 1. Dezember <a name="36">
 Timer gemacht
