@@ -285,7 +285,16 @@ In dieser Stunde machten wir einen Countdown, der nach Erkärung der Steuerung r
  ### Dienstag 30. November <a name="35">
 In diesen Stunde machten wir einen Timer, der dem Spieler die Zeit anzeigt. Der Timer besteht aus drei verschiedenen Sprites, die je nachdem welche Zehnerpottenz sie einnehmen sich jede Sekunde verändern. Jeder Sprite besteht aus 10 Kostümen, die die Zahlen 0-9 enthält. Wenn man das Spiel beendet erscheint der Timer in der Mitte des Screens und zeigt dem Spieler seine erreichte Zeit. 
  
- 
+![1 sekunde](https://user-images.githubusercontent.com/88385824/144909491-3db418e9-3f8a-4d6f-8c6d-4b50fc329b8b.PNG)
+
+ Dieser Sprite verändert sich jede Sekunde.
+
+![10 sekunden](https://user-images.githubusercontent.com/88385824/144909497-14a60e1e-8013-4af0-baf2-1738c9d86abd.PNG)
+
+![100 sekunden](https://user-images.githubusercontent.com/88385824/144909503-a86c0c06-8850-4b42-988e-f2e04d7eacaf.PNG)
+
+ Wenn 100 Sekudnen vergehen ändert dieser Sprite das Kostüm und geht zur 1.
+
 
 ### Mittwoch 1. Dezember <a name="36">
 Timer gemacht
