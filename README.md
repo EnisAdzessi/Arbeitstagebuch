@@ -240,7 +240,7 @@ Wir führten die Erklärung der Steuerung fort. Wir machen hierfür zwei Kostüm
 
 
  ### Mittwoch 17. November <a name="32">
-In der heutuigen Stunde machten wir einen Endscreen für beide Spiele. Je nach dem welcher Spieler zuerst drei Runden fährt, also die Rundenvariable = 3 ist, gewinnt. Es erscheint Bild, dass dem jeweiligen Spieler gratuliert. 
+In der heutuigen Stunde machten wir einen Endscreen für beide Spiele. Je nach dem welcher Spieler zuerst drei Runden fährt, also die Rundenvariable = 3 ist, gewinnt. Es wird dann die Message "End Game" gebroadcastet, die den Endscreen des Player 1 oder Player 2 triggert und diesem zum Sieg gratuliert.
 
 ![Endscreen Player 1](https://user-images.githubusercontent.com/88385824/144901566-5be8165a-ad91-408d-abc3-703b4f540581.PNG)
 
